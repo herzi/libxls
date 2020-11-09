@@ -6,6 +6,8 @@
 **/*.lo
 **/*.o
 **/*.pc
+/.build
+/.swiftpm
 aclocal.m4
 compile
 config.h*
